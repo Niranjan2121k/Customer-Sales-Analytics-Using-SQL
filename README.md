@@ -78,10 +78,3 @@ If you find this project useful:
 🔄 **Fork** it to create your own version!
 
 _“The goal is to turn data into information, and information into insight.” – Carly Fiorina_
-
----
-
-Would you like me to add:
-✅ **Badges** (e.g., MySQL, SQL, Data Analysis)?  
-✅ **A walkthrough GIF** showing query executions in action?  
-Let me know how you’d like to enhance the **README.md** further! 🚀😊
